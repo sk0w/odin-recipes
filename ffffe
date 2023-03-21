@@ -1,5 +1,5 @@
 
-@import url("https://puckzxz.github.io/NotAnotherAnimeTheme/build/v3/naat.v3.css");
+@import url("https://codedotspectra.github.io/themes/themes-cores/nocturnal.css");
 :root {
 --main-theme-color: #32DDE0E5;
 --theme-transparency: #080808F5;
