@@ -2,7 +2,7 @@
     /* --------- BASE THEME --------- */
     --blurple-replace: #7289DA;
     --background-primary: rgb(35, 37, 39);
-    --background-secondary: rgb(20, 20, 21);
+    --background-secondary: rgb(8, 8, 8);
     --background-floating: rgb(30, 30, 32);
     --background-secondary-alt: var(--background-floating);
     --background-tertiary: rgb(17, 19, 23);
