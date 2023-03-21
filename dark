@@ -1,8 +1,8 @@
 :root {
     /* --------- BASE THEME --------- */
     --blurple-replace: #7289DA;
-    --background-primary: rgb(20, 20, 21);
-    --background-secondary: rgb(35, 37, 39);
+    --background-primary: rgb(35, 37, 39);
+    --background-secondary: rgb(20, 20, 21);
     --background-floating: rgb(22, 27, 34);
     --background-secondary-alt: var(--background-floating);
     --background-tertiary: rgb(7, 10, 16);
