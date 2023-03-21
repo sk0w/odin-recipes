@@ -10,6 +10,7 @@
 @import url("https://codedotspectra.github.io/themes/themes-cores/nocturnal.css");
 :root {
 --mainColor: #2275c9;
+--theme-transparency: #080808F5;
 --theme-background-image: url('https://i.imgur.com/yjWlYRB.jpg');
 --backgroundColor01: #171717F2;
 --backgroundColor02: #0A0C0FF2;
