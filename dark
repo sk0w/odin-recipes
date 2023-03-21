@@ -5,7 +5,7 @@
     --background-secondary: rgb(20, 20, 21);
     --background-floating: rgb(30, 30, 32);
     --background-secondary-alt: var(--background-floating);
-    --background-tertiary: rgb(7, 10, 16);
+    --background-tertiary: rgb(17, 19, 23);
     --background-accent: rgb(17, 29, 46);
     --userarea-background: var(--background-tertiary);
     --header-primary: rgb(240, 246, 252);
