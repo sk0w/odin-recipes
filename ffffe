@@ -4,4 +4,9 @@
 --main-theme-color: #32DDE0E5;
 --theme-transparency: #080808F5;
 --theme-background-image: url('https://i.imgur.com/yjWlYRB.jpg');
+--mainColor: #2275c9;
+--backgroundColor01: #161D24FC;
+--backgroundColor02: #0A0C0FF2;
+--gradientColor01: #00F260;
+--gradientColor02: #0575E6;
 }
