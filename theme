@@ -68,4 +68,8 @@
 --reaction-emoji-border-color: 1px solid transparent;
 --reaction-emoji-hover-background-color: #ffffff1a;
 --reaction-emoji-hover-border-color: #ffffff33;
+--accent: 50,131,207;
+--message-padding: 10px;
+--message-spacing: 10px;
+--font: 'Roboto';
 }
